@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Observer", "FP.Patterns.Observer.csproj", "{BE2C906E-B6CC-42E6-8FBB-3757BD9BE749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Observer.Exercice0", "FP.Patterns.Observer.Exercice0.csproj", "{BE2C906E-B6CC-42E6-8FBB-3757BD9BE749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Observer.Exercice1", "..\FP.Patterns.Observer.Exercice1\FP.Patterns.Observer.Exercice1.csproj", "{D6BA69E6-E38D-43AC-BD64-76B7D208F25B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Observer.Exercice1", "..\FP.Patterns.Observer.Exercice1\FP.Patterns.Observer.Exercice1.csproj", "{D6BA69E6-E38D-43AC-BD64-76B7D208F25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Observer.Exercice2", "..\FP.Patterns.Observer.Exercice2\FP.Patterns.Observer.Exercice2.csproj", "{1EBFCD4F-B083-4A49-979D-C5B83BDDD3B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D6BA69E6-E38D-43AC-BD64-76B7D208F25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6BA69E6-E38D-43AC-BD64-76B7D208F25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6BA69E6-E38D-43AC-BD64-76B7D208F25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBFCD4F-B083-4A49-979D-C5B83BDDD3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBFCD4F-B083-4A49-979D-C5B83BDDD3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBFCD4F-B083-4A49-979D-C5B83BDDD3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBFCD4F-B083-4A49-979D-C5B83BDDD3B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
